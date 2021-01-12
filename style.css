@@ -93,7 +93,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("https://lorempixel.com/640/480/abstract/6/");
+  background-image: url("images/pilt3.jpg");
   z-index:2;
 }
 
@@ -104,17 +104,17 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("https://lorempixel.com/640/480/abstract/4/");
+  background-image: url("images/pilt1.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 {
-  background-image: url("https://lorempixel.com/640/480/abstract/3/");
+  background-image: url("images/pilt2.jpg");
   z-index:2;
 }
 
 #slide3:before {
-  background-image: url("https://lorempixel.com/640/480/abstract/5/");
+  background-image: url("images/pilt4.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
